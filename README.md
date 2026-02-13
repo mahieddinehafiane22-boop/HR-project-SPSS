@@ -14,5 +14,13 @@ Job content and work organization enhance subjective well-being
 Physical work environment impacts physical well-being
 Professional development and work–life balance increase overall employee satisfaction
 IMPACT : The findings position QWL as a strategic lever for: Improving employee well-being, Enhancing organizational health, Supporting talent retention and performance
+| QWL Dimension | Impact Level |
+|--------------|--------------|
+| Work organization | High |
+| Job content | High |
+| Physical environment | Moderate–High |
+| Social relationships | Moderate |
+| Work–life balance | Moderate |
+
 KEYWORDS : Quality of Working Life, Employee Well-Being, HR Analytics, Organizational Health
 AUTHOR : HAFIANE mahieddine 
