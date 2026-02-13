@@ -15,6 +15,8 @@ Physical work environment impacts physical well-being.
 Professional development and work–life balance increase overall employee satisfaction.
 IMPACT : The findings position QWL as a strategic lever for: Improving employee well-being, Enhancing organizational health, Supporting talent retention and performance.
 Summary : Quality of life and employees overall well being shows to be highly correlated, by reaching the final conclusion of this project aimed at measuring the impact of the QOL on well being of workers, we can confidently say, based on the previous analysis,our metrics used to determine QOL aspects ( professional and social relations, work content, physical environement of the workplace, work organization, professional achievements and developement, work life balance ) seems to positivly impact the aspects of workers well being ( subjective, social and physical well being. By positioning QOL as lever for Improving employee well-being, enhancing organizational health, Supporting talent retention and performance, the organisations can benefits from increased employees overall satisfaction by reducing turnover rates, optimizing performance, and promoting attractive workplace culture.
+KEYWORDS : Quality of Working Life, Employee Well-Being, HR Analytics, Organizational Health.
+AUTHOR : HAFIANE mahieddine.
 | QOL Dimension | Impact Level |
 |--------------|--------------|
 | Work organization | High |
@@ -22,5 +24,4 @@ Summary : Quality of life and employees overall well being shows to be highly co
 | Physical environment | Moderate–High |
 | Social relationships | Moderate |
 | Work–life balance | Moderate |
-KEYWORDS : Quality of Working Life, Employee Well-Being, HR Analytics, Organizational Health.
-AUTHOR : HAFIANE mahieddine.
+
